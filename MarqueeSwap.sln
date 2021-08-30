@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarqueeSwap", "MarqueeSwap.csproj", "{B1050976-D15E-4538-BC2E-17979EF8E399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1050976-D15E-4538-BC2E-17979EF8E399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1050976-D15E-4538-BC2E-17979EF8E399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1050976-D15E-4538-BC2E-17979EF8E399}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B1050976-D15E-4538-BC2E-17979EF8E399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1050976-D15E-4538-BC2E-17979EF8E399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1050976-D15E-4538-BC2E-17979EF8E399}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {068078A5-BCAD-4536-9936-868C6CF0B3A5}
+	EndGlobalSection
+EndGlobal
